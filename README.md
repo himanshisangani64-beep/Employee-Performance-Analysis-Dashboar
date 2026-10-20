@@ -109,17 +109,8 @@ This project follows a structured workflow to transform employee records into me
 
 ## 📈 Dashboard Preview
 
-The dashboard provides an overview of employee performance, experience, salary, project completion, job satisfaction, and training hours.
+![View Dashboard Image](Image/Dashboard_image.png)
 
-**Dashboard Screenshot:**
-
-_Add your dashboard image link here._
-
-Example:
-
-`[View Dashboard Image](Image/Dashboard_image.png)`
-
-*Replace the example image path with the actual location and filename of your dashboard screenshot in your GitHub repository.*
 
 ## 🔍 Key Insights
 
