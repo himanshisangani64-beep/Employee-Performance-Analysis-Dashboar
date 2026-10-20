@@ -109,7 +109,7 @@ This project follows a structured workflow to transform employee records into me
 
 ## 📈 Dashboard Preview
 
-![View Dashboard Image](Image/Dashboard_image.png)
+![View Dashboard Image](Image/Dashboard_Image.png)
 
 
 ## 🔍 Key Insights
